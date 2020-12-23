@@ -156,7 +156,7 @@ GEM
       mini_portile (~> 0.6.0)
     oj (2.16.1)
     phantomjs (2.1.1.0)
-    rack (1.6.4)
+    rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.3)
